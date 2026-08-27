@@ -1,5 +1,7 @@
 # IMERG para QGIS
 
+![IMERG](imerg.gif)
+
 [![QGIS](https://img.shields.io/badge/QGIS-3.40-589632?logo=qgis&logoColor=white)](https://qgis.org)
 [![Python](https://img.shields.io/badge/Python-3.9%2B-3776AB?logo=python&logoColor=white)](https://www.python.org)
 [![NASA IMERG](https://img.shields.io/badge/NASA-IMERG%20Early-0B3D91?logo=nasa&logoColor=white)](https://gpm.nasa.gov/data/imerg)

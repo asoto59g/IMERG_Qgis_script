@@ -27,6 +27,7 @@ IMERG_NASA*/
 *.tiff
 *.mp4
 *.gif
+!imerg.gif
 *.png
 *.pgw
 *.tfw
