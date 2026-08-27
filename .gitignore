@@ -1,0 +1,59 @@
+﻿# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+.venv/
+venv/
+env/
+
+# QGIS
+*.qgs
+*.qgz
+*.qgs~
+*.qgd
+*.gpkg-wal
+*.gpkg-shm
+*.aux.xml
+*.tif.aux.xml
+*.ovr
+*.qml.bak
+
+# Salidas IMERG (descargas y video)
+IMERG_NASA*/
+**/frames/
+**/png/
+*.tif
+*.tiff
+*.mp4
+*.gif
+*.png
+*.pgw
+*.tfw
+*.prj
+countries.geojson
+
+# Datos locales / cliente (no van al repo)
+cantones_cr.geojson
+cantones_inec.json
+
+# Scripts internos (no publicar)
+Nepal.py
+Nepal_animacion.py
+
+# Sistema
+.DS_Store
+Thumbs.db
+desktop.ini
+~$*
+
+# Editores
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Cursor / logs
+.cursor/
+agent-transcripts/
+*.log
