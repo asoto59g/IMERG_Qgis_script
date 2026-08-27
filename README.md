@@ -12,7 +12,7 @@
 
 Scripts de QGIS 3.40 para descargar lluvia **NASA IMERG Early** (GIBS, cada 30 min), animarla y calcular el **acumulado en un punto** con un clic.
 
-Pensado para eventos (inundaciones, monitoreo) sobre un país. Por defecto: **Nepal** y las **últimas 72 horas UTC**.  Cercano tiempo real (near-realtime) 4 horas de atraso contra hora actual.
+Pensado para eventos (inundaciones, monitoreo) sobre un país. Por defecto: **Nepal** y las **últimas 72 horas UTC**.    Cercano tiempo real (near-realtime) 4 horas de atraso contra hora actual.
 
 ## Scripts
 
