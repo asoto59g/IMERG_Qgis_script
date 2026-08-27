@@ -8,7 +8,7 @@
 [![GIBS](https://img.shields.io/badge/GIBS-30%20min-1B4F72)](https://www.earthdata.nasa.gov/learn/find-data/near-real-time/gibs)
 [![GDAL](https://img.shields.io/badge/GDAL-NumPy-5CA81E)](https://gdal.org)
 [![ffmpeg](https://img.shields.io/badge/ffmpeg-optional-007808?logo=ffmpeg&logoColor=white)](https://ffmpeg.org)
-[![License: MIT](https://img.shields.io/github/license/asoto59g/IMERG_Qgis_script)](LICENSE)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
 Scripts de QGIS 3.40 para descargar lluvia **NASA IMERG Early** (GIBS, cada 30 min), animarla y calcular el **acumulado en un punto** con un clic.
 
