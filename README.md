@@ -1,4 +1,4 @@
-# IMERG para QGIS
+# IMERG y CHIRPS para QGIS
 
 ![IMERG](imerg.gif)
 
