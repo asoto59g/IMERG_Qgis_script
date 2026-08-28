@@ -19,8 +19,9 @@ env/
 *.ovr
 *.qml.bak
 
-# Salidas IMERG (descargas y video)
+# Salidas IMERG / CHIRPS (descargas y video)
 IMERG_NASA*/
+CHIRPS_UCSB*/
 **/frames/
 **/png/
 *.tif
